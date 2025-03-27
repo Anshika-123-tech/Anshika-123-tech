@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Anshika kashyap</h1>
 <h3 align="center">B.tech CSE (CORE)|ASPIRING SOFTWARE ENGINEER|LEARNING & DEVELOPMENT</h3>
+<img  align="right" alt=="coding"width=300 border-radius=10 src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika-123-tech&label=Profile%20views&color=0e75b6&style=flat" alt="anshika-123-tech" /> </p>
 
